@@ -91,7 +91,6 @@ export default function Home() {
           </Button>
         </div>
         <div className="absolute bottom-8 left-1/2 -translate-x-1/2 text-white animate-float">
-          <ChevronDown size={32} />
         </div>
       </section>
 
