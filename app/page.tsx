@@ -77,9 +77,11 @@ export default function Home() {
     <main className="min-h-screen">
       {/* Hero Section */}
       <section className="h-screen relative flex items-center justify-center bg-gradient-to-br from-[#ff1b6b] to-[#45caff]">
-        <div className="relative text-center text-white z-10 space-y-6 animate-bounce-in">
-          <h1 className="text-6xl" style={{ fontFamily: 'Abuget' }}>{t.hero.title}</h1>
-          <p className="text-3xl" style={{ fontFamily: 'Abuget' }}>{t.hero.subtitle}</p>
+        <div className="relative text-center text-white z-10 space-y-6">
+          <h1>
+            <img src="https://i.ibb.co/JRwt3Kyc/title.png" alt="Title Logo" className="relative text-center text-white z-10 space-y-6"/>
+          </h1>
+          <p className="text-6xl" style={{ fontFamily: 'Abuget' }}>{t.hero.subtitle}</p>
           <Button 
             variant="outline" 
             className="border-white text-white bg-transparent hover:bg-white/20"
