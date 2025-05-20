@@ -459,7 +459,7 @@ export const translations = {
       },
       contact: {
         title: 'Contact',
-        info: '019 33 12 03',
+        info: '(+32) 019 33 12 03',
       },
     }
   },
@@ -923,7 +923,7 @@ export const translations = {
       },
       contact: {
         title: 'Contact',
-        info: '019 33 12 03',
+        info: '(+32) 019 33 12 03',
       },
     }
   },
@@ -1387,7 +1387,7 @@ export const translations = {
       },
       contact: {
         title: 'Contact',
-        info: '019 33 12 03',
+        info: '(+32) 019 33 12 03',
       },
     }
   },
@@ -1851,7 +1851,7 @@ export const translations = {
       },
       contact: {
         title: 'Contact',
-        info: '019 33 12 03',
+        info: '(+32) 019 33 12 03',
       },
     }
   }
