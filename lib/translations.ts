@@ -484,8 +484,8 @@ export const translations = {
             cheeseburger: {
               name: 'Cheeseburger',
               description: 'Buns, steak pur bœuf, cheddar, cornichons, sauce burger',
-              single: 'Simple – 9€ / Double – 11€ / Triple – 12€',
-              price: 'Simple – 6,5€ / Double – 7€ / Triple – 8€'
+              single: 'Simple 9€ Double 11€ Triple 12€',
+              price: 'Simple 6.5€ Double 7€ Triple 8€'
             },
             bigwar: {
               name: 'Big War',
@@ -948,8 +948,8 @@ export const translations = {
             cheeseburger: {
               name: 'Cheeseburger',
               description: 'Buns, pure rundvlees burger, cheddar, augurken, burger saus',
-              single: 'Enkel – 9€ / Dubbel – 11€ / Driedubbel – 12€',
-              price: 'Enkel – 6,5€ / Dubbel – 7€ / Driedubbel – 8€'
+              single: 'Enkel 9€ Dubbel 11€ Driedubbel 12€',
+              price: 'Enkel 6.5€ Dubbel 7€ Driedubbel 8€'
             },
             bigwar: {
               name: 'Big War',
@@ -1412,8 +1412,8 @@ export const translations = {
             cheeseburger: {
               name: 'Cheeseburger',
               description: 'Buns, reines Rindfleisch-Patty, Cheddar, Gurken, Burger-Sauce',
-              single: 'Einfach – 9€ / Doppelt – 11€ / Dreifach – 12€',
-              price: 'Einfach – 6,5€ / Doppelt – 7€ / Dreifach – 8€'
+              single: 'Einfach 9€ Doppelt 11€ Dreifach 12€',
+              price: 'Einfach 6.5€ Doppelt 7€ Dreifach 8€'
             },
             bigwar: {
               name: 'Big War',
