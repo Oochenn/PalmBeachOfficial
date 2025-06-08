@@ -455,7 +455,7 @@ export const translations = {
       },
       hours: {
         title: 'Hours',
-        schedule: 'Mon-Thu: 5pm - 10pm\nFri-Sun: 5pm - 11pm',
+        schedule: 'Monday, Tuesday, Thursday, Sunday : 17:00 - 00:00\nWednesday: 11:30 - 00:00\nFriday: 11:30 - 01:00\nSaturday: 17:00 - 01:00',
       },
       contact: {
         title: 'Contact',
@@ -919,7 +919,7 @@ export const translations = {
       },
       hours: {
         title: 'Horaires',
-        schedule: 'Lun-Jeu: 17h - 22h\nVen-Dim: 17h - 23h',
+        schedule: 'Lundi, Mardi, Jeudi, Dimanche : 17:00 - 00:00\nMercredi: 11:30 - 00:00\nVendredi: 11:30 - 01:00\nSamedi: 17:00 - 01:00',
       },
       contact: {
         title: 'Contact',
@@ -1383,7 +1383,7 @@ export const translations = {
       },
       hours: {
         title: 'Openingstijden',
-        schedule: 'Ma-Do: 17:00 - 22:00\nVr-Zo: 17:00 - 23:00',
+        schedule: 'Maandag, Dinsdag, Donderdag, Zondag : 17:00 - 00:00\nWoensdag: 11:30 - 00:00\nVrijdag: 11:30 - 01:00\nZaterdag: 17:00 - 01:00',
       },
       contact: {
         title: 'Contact',
@@ -1847,7 +1847,7 @@ export const translations = {
       },
       hours: {
         title: 'Öffnungszeiten',
-        schedule: 'Mo-Do: 17:00 - 22:00\nFr-So: 17:00 - 23:00',
+        schedule: 'Montag, Dienstag, Donnerstag, Sonntag : 17:00 - 00:00\nMittwoch: 11:30 - 00:00\nFreitag: 11:30 - 01:00\nSamstag: 17:00 - 01:00',
       },
       contact: {
         title: 'Contact',
