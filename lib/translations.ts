@@ -20,7 +20,7 @@ export const translations = {
             cheeseburger: {
               name: 'Cheeseburger',
               description: 'Buns, pure beef patty, cheddar, pickles, burger sauce',
-              single: 'Simple 6.5€ Double 7€ Triple 8€',
+              single: 'Simple 6.50€ Double 7€ Triple 8€',
               price:  'Simple 9€ Double 11€ Triple 12€'
             },
             bigwar: {
@@ -38,8 +38,8 @@ export const translations = {
             snowfall: {
               name: 'Snowfall',
               description: 'Buns, pure beef patty, raclette cheese, caramelized onions, bacon, BBQ sauce',
-              price: '13.5€',
-              single: '9.5€'
+              price: '13.50€',
+              single: '9.50€'
             },
             italy: {
               name: 'Little Italy',
@@ -155,19 +155,19 @@ export const translations = {
             burger: {
               name: 'HAMBURGER',
               description: 'Steak, melted cheddar, ketchup + fries + Capri Sun',
-              price: '7.5€',
+              price: '7.50€',
               single: ''
             },
             hotdog: {
               name: 'HOT DOG',
               description: 'One Frankfurt sausage, melted cheddar, ketchup + fries + Capri Sun',
-              price: '7.5€',
+              price: '7.50€',
               single: ''
             },
             chicken: {
               name: 'CHICKEN',
               description: 'Wings or Tenders or Nuggets + fries + Capri Sun',
-              price: '7.5€',
+              price: '7.50€',
               single: ''
             }
           }
@@ -231,7 +231,7 @@ export const translations = {
             cheddarf: {
               name: 'CHEDDAR FRIES',
               description: 'Fries topped with melted cheddar',
-              price: '3.5€',
+              price: '3.50€',
               single: ''
             },
             cheddarbacon: {
@@ -261,13 +261,13 @@ export const translations = {
             fries: {
               name: 'FRIES',
               description: 'Classic Belgian-style fries',
-              price: '2.5€',
+              price: '2.50€',
               single: ''
             },
             mac: {
               name: 'MAC AND CHEESE',
               description: 'Creamy macaroni and cheese',
-              price: '3.5€',
+              price: '3.50€',
               single: ''
             }
           }
@@ -284,7 +284,7 @@ export const translations = {
             special: {
               name: 'USA SPECIAL & REDBULL',
               description: 'Special imported drinks & Red Bull',
-              price: '2.5€',
+              price: '2.50€',
               single: ''
             },
             capri: {
@@ -301,25 +301,25 @@ export const translations = {
             onionsfried: {
               name: 'Fried Onions',
               description: 'Crispy fried onions',
-              price: '0.5€',
+              price: '0.50€',
               single: ''
             },
             onionscaramelized: {
               name: 'Caramelized Onions',
               description: 'Sweet caramelized onions',
-              price: '0.5€',
+              price: '0.50€',
               single: ''
             },
             veggies: {
               name: 'Raw Vegetables',
               description: 'Fresh raw vegetables',
-              price: '0.5€',
+              price: '0.50€',
               single: ''
             },
             cheese: {
               name: 'Cheese',
               description: 'Extra cheese',
-              price: '0.5€',
+              price: '0.50€',
               single: ''
             },
             beef: {
@@ -348,91 +348,91 @@ export const translations = {
             ketchup: {
               name: 'Ketchup',
               description: 'Classic tomato ketchup',
-              price: '0.5€',
+              price: '0.50€',
               single: ''
             },
             curryketchup: {
               name: 'Curry Ketchup',
               description: 'Ketchup with curry spices',
-              price: '0.5€',
+              price: '0.50€',
               single: ''
             },
             mayo: {
               name: 'Mayonnaise',
               description: 'Classic mayonnaise',
-              price: '0.5€',
+              price: '0.50€',
               single: ''
             },
             tartare: {
               name: 'Tartare',
               description: 'Tangy tartare sauce',
-              price: '0.5€',
+              price: '0.50€',
               single: ''
             },
             andalouse: {
               name: 'Andalouse',
               description: 'Belgian andalouse sauce',
-              price: '0.5€',
+              price: '0.50€',
               single: ''
             },
             samourai: {
               name: 'Samouraï',
               description: 'Spicy Belgian sauce',
-              price: '0.5€',
+              price: '0.50€',
               single: ''
             },
             cocktail: {
               name: 'Cocktail',
               description: 'Sweet cocktail sauce',
-              price: '0.5€',
+              price: '0.50€',
               single: ''
             },
             brazil: {
               name: 'Brazil',
               description: 'Exotic Brazilian sauce',
-              price: '0.5€',
+              price: '0.50€',
               single: ''
             },
             sriracha: {
               name: 'Sriracha',
               description: 'Hot chili sauce',
-              price: '0.5€',
+              price: '0.50€',
               single: ''
             },
             bbq: {
               name: 'Barbecue',
               description: 'Sweet and smoky BBQ sauce',
-              price: '0.5€',
+              price: '0.50€',
               single: ''
             },
             usmustard: {
               name: 'US Mustard',
               description: 'American-style mustard',
-              price: '0.5€',
+              price: '0.50€',
               single: ''
             },
             toscane: {
               name: 'Toscane',
               description: 'Italian-inspired sauce',
-              price: '0.5€',
+              price: '0.50€',
               single: ''
             },
             algerienne: {
               name: 'Algérienne',
               description: 'North African-style sauce',
-              price: '0.5€',
+              price: '0.50€',
               single: ''
             },
             harissa: {
               name: 'Harissa',
               description: 'Spicy North African sauce',
-              price: '0.5€',
+              price: '0.50€',
               single: ''
             },
             burger: {
               name: 'Burger',
               description: 'Classic burger sauce',
-              price: '0.5€',
+              price: '0.50€',
               single: ''
             }
           }
@@ -484,7 +484,7 @@ export const translations = {
             cheeseburger: {
               name: 'Cheeseburger',
               description: 'Buns, steak pur bœuf, cheddar, cornichons, sauce burger',
-              single: 'Simple 6.5€ Double 7€ Triple 8€',
+              single: 'Simple 6.50€ Double 7€ Triple 8€',
               price:  'Simple 9€ Double 11€ Triple 12€'
             },
             bigwar: {
@@ -502,8 +502,8 @@ export const translations = {
             snowfall: {
               name: 'Snowfall',
               description: 'Buns, steak pur bœuf, raclette, oignons caramélisés, bacon, sauce BBQ',
-              price: '13.5€',
-              single: '9.5€'
+              price: '13.50€',
+              single: '9.50€'
             },
             italy: {
               name: 'Little Italy',
@@ -619,19 +619,19 @@ export const translations = {
             burger: {
               name: 'HAMBURGER',
               description: 'Steak, melty cheddar, ketchup + frites + Capri Sun',
-              price: '7,5€',
+              price: '7.50€',
               single: ''
             },
             hotdog: {
               name: 'HOT DOG',
               description: 'Une saucisse Francfort, melty cheddar, ketchup + frites + Capri Sun',
-              price: '7,5€',
+              price: '7.50€',
               single: ''
             },
             chicken: {
               name: 'CHICKEN',
               description: 'Wings ou Tenders ou Nuggets + frites + Capri Sun',
-              price: '7,5€',
+              price: '7.50€',
               single: ''
             }
           }
@@ -695,7 +695,7 @@ export const translations = {
             cheddarf: {
               name: 'FRITES CHEDDAR',
               description: 'Frites avec cheddar fondu',
-              price: '3.5€',
+              price: '3.50€',
               single: ''
             },
             cheddarbacon: {
@@ -725,13 +725,13 @@ export const translations = {
             fries: {
               name: 'FRITES',
               description: 'Frites belges classiques',
-              price: '2.5€',
+              price: '2.50€',
               single: ''
             },
             mac: {
               name: 'MAC AND CHEESE',
               description: 'Macaroni au fromage crémeux',
-              price: '3.5€',
+              price: '3.50€',
               single: ''
             }
           }
@@ -748,7 +748,7 @@ export const translations = {
             special: {
               name: 'BOISSONS USA SPECIAL & REDBULL',
               description: 'Boissons importées spéciales & Red Bull',
-              price: '2.5€',
+              price: '2.50€',
               single: ''
             },
             capri: {
@@ -765,25 +765,25 @@ export const translations = {
             onionsfried: {
               name: 'Oignons frits',
               description: 'Oignons frits croustillants',
-              price: '0,5€',
+              price: '0.50€',
               single: ''
             },
             onionscaramelized: {
               name: 'Oignons caramélisés',
               description: 'Oignons caramélisés doux',
-              price: '0,5€',
+              price: '0.50€',
               single: ''
             },
             veggies: {
               name: 'Crudités',
               description: 'Légumes frais',
-              price: '0,5€',
+              price: '0.50€',
               single: ''
             },
             cheese: {
               name: 'Fromage',
               description: 'Fromage supplémentaire',
-              price: '0,5€',
+              price: '0.50€',
               single: ''
             },
             beef: {
@@ -812,91 +812,91 @@ export const translations = {
             ketchup: {
               name: 'Ketchup',
               description: 'Ketchup classique',
-              price: '0.5€',
+              price: '0.50€',
               single: ''
             },
             curryketchup: {
               name: 'Ketchup Curry',
               description: 'Ketchup aux épices curry',
-              price: '0.5€',
+              price: '0.50€',
               single: ''
             },
             mayo: {
               name: 'Mayonnaise',
               description: 'Mayonnaise classique',
-              price: '0.5€',
+              price: '0.50€',
               single: ''
             },
             tartare: {
               name: 'Tartare',
               description: 'Sauce tartare',
-              price: '0.5€',
+              price: '0.50€',
               single: ''
             },
             andalouse: {
               name: 'Andalouse',
               description: 'Sauce andalouse belge',
-              price: '0.5€',
+              price: '0.50€',
               single: ''
             },
             samourai: {
               name: 'Samouraï',
               description: 'Sauce belge épicée',
-              price: '0.5€',
+              price: '0.50€',
               single: ''
             },
             cocktail: {
               name: 'Cocktail',
               description: 'Sauce cocktail douce',
-              price: '0.5€',
+              price: '0.50€',
               single: ''
             },
             brazil: {
               name: 'Brazil',
               description: 'Sauce brésilienne exotique',
-              price: '0.5€',
+              price: '0.50€',
               single: ''
             },
             sriracha: {
               name: 'Sriracha',
               description: 'Sauce chili piquante',
-              price: '0.5€',
+              price: '0.50€',
               single: ''
             },
             bbq: {
               name: 'Barbecue',
               description: 'Sauce BBQ douce et fumée',
-              price: '0.5€',
+              price: '0.50€',
               single: ''
             },
             usmustard: {
               name: 'Moutarde US',
               description: 'Moutarde style américain',
-              price: '0.5€',
+              price: '0.50€',
               single: ''
             },
             toscane: {
               name: 'Toscane',
               description: 'Sauce inspirée de l\'Italie',
-              price: '0.5€',
+              price: '0.50€',
               single: ''
             },
             algerienne: {
               name: 'Algérienne',
               description: 'Sauce style nord-africain',
-              price: '0.5€',
+              price: '0.50€',
               single: ''
             },
             harissa: {
               name: 'Harissa',
               description: 'Sauce épicée nord-africaine',
-              price: '0.5€',
+              price: '0.50€',
               single: ''
             },
             burger: {
               name: 'Burger',
               description: 'Sauce burger classique',
-              price: '0.5€',
+              price: '0.50€',
               single: ''
             }
           }
@@ -948,7 +948,7 @@ export const translations = {
             cheeseburger: {
               name: 'Cheeseburger',
               description: 'Buns, pure rundvlees burger, cheddar, augurken, burger saus',
-              single: 'Enkel 6.5€ Dubbel 7€ Driedubbel 8€',
+              single: 'Enkel 6.50€ Dubbel 7€ Driedubbel 8€',
               price:  'Enkel 9€ Dubbel 11€ Driedubbel 12€'
             },
             bigwar: {
@@ -966,8 +966,8 @@ export const translations = {
             snowfall: {
               name: 'Snowfall',
               description: 'Buns, pure rundvlees burger, raclette, gekarameliseerde ui, bacon, BBQ saus',
-              price: '13.5€',
-              single: '9.5€'
+              price: '13.50€',
+              single: '9.50€'
             },
             italy: {
               name: 'Little Italy',
@@ -1083,19 +1083,19 @@ export const translations = {
             burger: {
               name: 'HAMBURGER',
               description: 'Steak, gesmolten cheddar, ketchup + friet + Capri Sun',
-              price: '7,5€',
+              price: '7.50€',
               single: ''
             },
             hotdog: {
               name: 'HOT DOG',
               description: 'Een Frankfurter worst, gesmolten cheddar, ketchup + friet + Capri Sun',
-              price: '7,5€',
+              price: '7.50€',
               single: ''
             },
             chicken: {
               name: 'CHICKEN',
               description: 'Wings of Tenders of Nuggets + friet + Capri Sun',
-              price: '7,5€',
+              price: '7.50€',
               single: ''
             }
           }
@@ -1159,7 +1159,7 @@ export const translations = {
             cheddarf: {
               name: 'CHEDDAR FRIET',
               description: 'Friet met gesmolten cheddar',
-              price: '3.5€',
+              price: '3.50€',
               single: ''
             },
             cheddarbacon: {
@@ -1189,13 +1189,13 @@ export const translations = {
             fries: {
               name: 'FRIET',
               description: 'Klassieke Belgische friet',
-              price: '2.5€',
+              price: '2.50€',
               single: ''
             },
             mac: {
               name: 'MAC AND CHEESE',
               description: 'Romige macaroni met kaas',
-              price: '3.5€',
+              price: '3.50€',
               single: ''
             }
           }
@@ -1212,7 +1212,7 @@ export const translations = {
             special: {
               name: 'USA SPECIAL & REDBULL',
               description: 'Speciale geïmporteerde dranken & Red Bull',
-              price: '2.5€',
+              price: '2.50€',
               single: ''
             },
             capri: {
@@ -1229,25 +1229,25 @@ export const translations = {
             onionsfried: {
               name: 'Gebakken uitjes',
               description: 'Krokante gebakken uitjes',
-              price: '0,5€',
+              price: '0.50€',
               single: ''
             },
             onionscaramelized: {
               name: 'Gekarameliseerde ui',
               description: 'Zoete gekarameliseerde ui',
-              price: '0,5€',
+              price: '0.50€',
               single: ''
             },
             veggies: {
               name: 'Rauwe groenten',
               description: 'Verse rauwe groenten',
-              price: '0,5€',
+              price: '0.50€',
               single: ''
             },
             cheese: {
               name: 'Kaas',
               description: 'Extra kaas',
-              price: '0,5€',
+              price: '0.50€',
               single: ''
             },
             beef: {
@@ -1276,91 +1276,91 @@ export const translations = {
             ketchup: {
               name: 'Ketchup',
               description: 'Klassieke tomatenketchup',
-              price: '0.5€',
+              price: '0.50€',
               single: ''
             },
             curryketchup: {
               name: 'Curry Ketchup',
               description: 'Ketchup met curry kruiden',
-              price: '0.5€',
+              price: '0.50€',
               single: ''
             },
             mayo: {
               name: 'Mayonaise',
               description: 'Klassieke mayonaise',
-              price: '0.5€',
+              price: '0.50€',
               single: ''
             },
             tartare: {
               name: 'Tartaar',
               description: 'Pittige tartaarsaus',
-              price: '0.5€',
+              price: '0.50€',
               single: ''
             },
             andalouse: {
               name: 'Andalouse',
               description: 'Belgische andalouse saus',
-              price: '0.5€',
+              price: '0.50€',
               single: ''
             },
             samourai: {
               name: 'Samourai',
               description: 'Pittige Belgische saus',
-              price: '0.5€',
+              price: '0.50€',
               single: ''
             },
             cocktail: {
               name: 'Cocktail',
               description: 'Zoete cocktailsaus',
-              price: '0.5€',
+              price: '0.50€',
               single: ''
             },
             brazil: {
               name: 'Brazil',
               description: 'Exotische Braziliaanse saus',
-              price: '0.5€',
+              price: '0.50€',
               single: ''
             },
             sriracha: {
               name: 'Sriracha',
               description: 'Hete chilisaus',
-              price: '0.5€',
+              price: '0.50€',
               single: ''
             },
             bbq: {
               name: 'Barbecue',
               description: 'Zoete en rokerige BBQ-saus',
-              price: '0.5€',
+              price: '0.50€',
               single: ''
             },
             usmustard: {
               name: 'Amerikaanse Mosterd',
               description: 'Amerikaanse stijl mosterd',
-              price: '0.5€',
+              price: '0.50€',
               single: ''
             },
             toscane: {
               name: 'Toscane',
               description: 'Italiaans geïnspireerde saus',
-              price: '0.5€',
+              price: '0.50€',
               single: ''
             },
             algerienne: {
               name: 'Algerijnse',
               description: 'Noord-Afrikaanse stijl saus',
-              price: '0.5€',
+              price: '0.50€',
               single: ''
             },
             harissa: {
               name: 'Harissa',
               description: 'Pittige Noord-Afrikaanse saus',
-              price: '0.5€',
+              price: '0.50€',
               single: ''
             },
             burger: {
               name: 'Burger',
               description: 'Klassieke burgersaus',
-              price: '0.5€',
+              price: '0.50€',
               single: ''
             }
           }
@@ -1412,7 +1412,7 @@ export const translations = {
             cheeseburger: {
               name: 'Cheeseburger',
               description: 'Buns, reines Rindfleisch-Patty, Cheddar, Gurken, Burger-Sauce',
-              single: 'Einfach 6.5€ Doppelt 7€ Dreifach 8€',
+              single: 'Einfach 6.50€ Doppelt 7€ Dreifach 8€',
               price:  'Einfach 9€ Doppelt 11€ Dreifach 12€'
             },
             bigwar: {
@@ -1430,8 +1430,8 @@ export const translations = {
             snowfall: {
               name: 'Snowfall',
               description: 'Buns, reines Rindfleisch-Patty, Raclette, karamellisierte Zwiebeln, Speck, BBQ-Sauce',
-              price: '13.5€',
-              single: '9.5€'
+              price: '13.50€',
+              single: '9.50€'
             },
             italy: {
               name: 'Little Italy',
@@ -1547,19 +1547,19 @@ export const translations = {
             burger: {
               name: 'HAMBURGER',
               description: 'Steak, geschmolzener Cheddar, Ketchup + Pommes + Capri Sun',
-              price: '7,5€',
+              price: '7.50€',
               single: ''
             },
             hotdog: {
               name: 'HOT DOG',
               description: 'Eine Frankfurter Wurst, geschmolzener Cheddar, Ketchup + Pommes + Capri Sun',
-              price: '7,5€',
+              price: '7.50€',
               single: ''
             },
             chicken: {
               name: 'CHICKEN',
               description: 'Wings oder Tenders oder Nuggets + Pommes + Capri Sun',
-              price: '7,5€',
+              price: '7.50€',
               single: ''
             }
           }
@@ -1623,7 +1623,7 @@ export const translations = {
             cheddarf: {
               name: 'CHEDDAR POMMES',
               description: 'Pommes mit geschmolzenem Cheddar',
-              price: '3.5€',
+              price: '3.50€',
               single: ''
             },
             cheddarbacon: {
@@ -1653,13 +1653,13 @@ export const translations = {
             fries: {
               name: 'POMMES',
               description: 'Klassische belgische Pommes',
-              price: '2.5€',
+              price: '2.50€',
               single: ''
             },
             mac: {
               name: 'MAC AND CHEESE',
               description: 'Cremige Makkaroni mit Käse',
-              price: '3.5€',
+              price: '3.50€',
               single: ''
             }
           }
@@ -1676,7 +1676,7 @@ export const translations = {
             special: {
               name: 'USA SPECIAL & REDBULL',
               description: 'Spezielle importierte Getränke & Red Bull',
-              price: '2.5€',
+              price: '2.50€',
               single: ''
             },
             capri: {
@@ -1693,25 +1693,25 @@ export const translations = {
             onionsfried: {
               name: 'Röstzwiebeln',
               description: 'Knusprige Röstzwiebeln',
-              price: '0,5€',
+              price: '0.50€',
               single: ''
             },
             onionscaramelized: {
               name: 'Karamellisierte Zwiebeln',
               description: 'Süße karamellisierte Zwiebeln',
-              price: '0,5€',
+              price: '0.50€',
               single: ''
             },
             veggies: {
               name: 'Rohkost',
               description: 'Frisches Rohgemüse',
-              price: '0,5€',
+              price: '0.50€',
               single: ''
             },
             cheese: {
               name: 'Käse',
               description: 'Extra Käse',
-              price: '0,5€',
+              price: '0.50€',
               single: ''
             },
             beef: {
@@ -1740,91 +1740,91 @@ export const translations = {
             ketchup: {
               name: 'Ketchup',
               description: 'Klassischer Tomatenketchup',
-              price: '0.5€',
+              price: '0.50€',
               single: ''
             },
             curryketchup: {
               name: 'Curry Ketchup',
               description: 'Ketchup mit Curry-Gewürzen',
-              price: '0.5€',
+              price: '0.50€',
               single: ''
             },
             mayo: {
               name: 'Mayonnaise',
               description: 'Klassische Mayonnaise',
-              price: '0.5€',
+              price: '0.50€',
               single: ''
             },
             tartare: {
               name: 'Tartare',
               description: 'Würzige Tartarsoße',
-              price: '0.5€',
+              price: '0.50€',
               single: ''
             },
             andalouse: {
               name: 'Andalouse',
               description: 'Belgische Andalouse-Soße',
-              price: '0.5€',
+              price: '0.50€',
               single: ''
             },
             samourai: {
               name: 'Samourai',
               description: 'Scharfe belgische Soße',
-              price: '0.5€',
+              price: '0.50€',
               single: ''
             },
             cocktail: {
               name: 'Cocktail',
               description: 'Süße Cocktailsoße',
-              price: '0.5€',
+              price: '0.50€',
               single: ''
             },
             brazil: {
               name: 'Brazil',
               description: 'Exotische brasilianische Soße',
-              price: '0.5€',
+              price: '0.50€',
               single: ''
             },
             sriracha: {
               name: 'Sriracha',
               description: 'Scharfe Chilisoße',
-              price: '0.5€',
+              price: '0.50€',
               single: ''
             },
             bbq: {
               name: 'Barbecue',
               description: 'Süße und rauchige BBQ-Soße',
-              price: '0.5€',
+              price: '0.50€',
               single: ''
             },
             usmustard: {
               name: 'US Senf',
               description: 'Amerikanischer Senf',
-              price: '0.5€',
+              price: '0.50€',
               single: ''
             },
             toscane: {
               name: 'Toscana',
               description: 'Italienisch inspirierte Soße',
-              price: '0.5€',
+              price: '0.50€',
               single: ''
             },
             algerienne: {
               name: 'Algérienne',
               description: 'Nordafrikanische Soße',
-              price: '0.5€',
+              price: '0.50€',
               single: ''
             },
             harissa: {
               name: 'Harissa',
               description: 'Scharfe nordafrikanische Soße',
-              price: '0.5€',
+              price: '0.50€',
               single: ''
             },
             burger: {
               name: 'Burger',
               description: 'Klassische Burgersoße',
-              price: '0.5€',
+              price: '0.50€',
               single: ''
             }
           }
