@@ -38,7 +38,7 @@ export default function Home() {
   }, []);
 
   const handleLocationClick = () => {
-    window.open('https://www.google.com/maps/search/?api=1&query=Rue+Zenobe+Gramme+1+4300+Waremme+Belgique', '_blank');
+    window.open('https://maps.app.goo.gl/ZLS5y3CV4Mg7dZUCA', '_blank');
   };
 
   const handlePhoneClick = () => {
@@ -224,12 +224,12 @@ export default function Home() {
               onClick={handleLocationClick}
             >
               <MapPin className="mx-auto mb-4" size={24} />
-              <h3 className="text-3xl mb-2" style={{ fontFamily: 'Abuget' }}>{t.features.location.title}</h3>
+              <h3 className="text-2xl mb-2">{t.features.location.title}</h3>
               <p className="text-gray-600 hover:text-primary transition-colors">{t.features.location.address}</p>
             </Card>
             <Card className="p-6 text-center opacity-0 animate-fade-in-2 hover:scale-105 transition-transform duration-300">
               <Clock className="mx-auto mb-4" size={24} />
-              <h3 className="text-3xl mb-2" style={{ fontFamily: 'Abuget' }}>{t.features.hours.title}</h3>
+              <h3 className="text-2xl mb-2">{t.features.hours.title}</h3>
               <p className="text-gray-600">{t.features.hours.schedule}</p>
             </Card>
             <Card 
@@ -237,7 +237,7 @@ export default function Home() {
               onClick={handlePhoneClick}
             >
               <Phone className="mx-auto mb-4" size={24} />
-              <h3 className="text-3xl mb-2" style={{ fontFamily: 'Abuget' }}>{t.features.contact.title}</h3>
+              <h3 className="text-2xl mb-2">{t.features.contact.title}</h3>
               <p className="text-gray-600 hover:text-primary transition-colors">{t.features.contact.info}</p>
             </Card>
           </div>
